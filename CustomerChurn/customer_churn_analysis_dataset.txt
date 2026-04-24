@@ -1,0 +1,301 @@
+CustomerID,Gender,Region,SubscriptionPlan,StartDate,EndDate,MonthlyUsageHours,Complaints,LastPaymentDate,PaymentStatus,Churned
+CU1001,Male,Western,Premium,09/10/2022,14/09/2023,48.5,1,20/06/2023,Overdue,Yes
+CU1002,Male,Bono East,Basic,06/04/2022,13/02/2023,50.4,9,10/02/2023,Overdue,Yes
+CU1003,Male,Bono East,Standard,27/08/2023,04/09/2024,162.8,0,30/05/2024,Paid,Yes
+CU1004,Female,Bono East,Standard,09/06/2022,15/04/2023,191.7,5,02/04/2023,Paid,No
+CU1005,Female,Western,Standard,11/09/2023,05/09/2024,162.4,7,29/06/2024,Paid,No
+CU1006,Female,Eastern,Premium,26/09/2023,29/12/2024,117.6,1,24/12/2024,Overdue,Yes
+CU1007,Male,Savannah,Basic,06/06/2024,16/12/2024,79.1,7,26/09/2024,Pending,Yes
+CU1008,Female,Ahafo,Basic,18/11/2023,15/11/2024,141.9,10,25/08/2024,Paid,Yes
+CU1009,Male,Volta,Basic,19/04/2023,09/08/2024,57.6,10,13/05/2024,Overdue,Yes
+CU1010,Male,Oti,Basic,21/04/2024,21/08/2024,162.0,6,18/07/2024,Paid,No
+CU1011,Male,Oti,Premium,27/05/2023,03/10/2024,177.5,10,06/08/2024,Paid,No
+CU1012,Male,Central,Premium,29/07/2023,30/04/2025,56.2,9,07/03/2025,Overdue,No
+CU1013,Male,Ahafo,Basic,06/06/2023,21/01/2025,22.7,0,03/10/2024,Paid,No
+CU1014,Female,Volta,Premium,07/03/2022,04/07/2023,79.4,7,28/04/2023,Pending,Yes
+CU1015,Female,Western,Premium,15/12/2022,07/07/2023,62.2,2,10/05/2023,Paid,Yes
+CU1016,Male,Upper West,Premium,19/04/2022,18/04/2024,63.2,10,14/02/2024,Overdue,Yes
+CU1017,Female,Central,Basic,07/07/2023,31/03/2025,184.1,9,18/02/2025,Pending,Yes
+CU1018,Female,Western,Standard,03/09/2022,30/01/2023,52.0,9,20/01/2023,Paid,Yes
+CU1019,Male,Western North,Premium,24/02/2024,29/09/2024,30.0,7,21/07/2024,Paid,No
+CU1020,Male,Bono East,Premium,13/02/2024,04/12/2024,144.0,6,10/09/2024,Overdue,No
+CU1021,Female,North East,Basic,11/09/2022,28/07/2023,17.5,0,14/05/2023,Overdue,Yes
+CU1022,Male,Upper East,Basic,26/12/2023,24/05/2024,49.6,0,04/02/2024,Pending,Yes
+CU1023,Female,Upper East,Premium,13/05/2023,17/03/2024,110.2,9,04/01/2024,Pending,Yes
+CU1024,Female,Western North,Basic,07/04/2022,13/10/2022,133.5,5,20/08/2022,Pending,No
+CU1025,Male,Ashanti,Basic,17/02/2023,29/04/2024,161.1,1,29/03/2024,Paid,No
+CU1026,Male,North East,Standard,07/07/2022,17/07/2023,95.2,1,22/05/2023,Overdue,Yes
+CU1027,Male,Ashanti,Basic,11/02/2024,08/01/2025,37.4,7,08/11/2024,Paid,No
+CU1028,Male,Ashanti,Standard,03/01/2022,07/05/2023,56.7,7,01/04/2023,Pending,No
+CU1029,Male,Central,Standard,11/08/2022,07/01/2023,117.9,8,31/12/2022,Overdue,No
+CU1030,Male,Ashanti,Premium,04/05/2023,28/12/2024,184.3,8,08/12/2024,Paid,Yes
+CU1031,Male,Eastern,Basic,02/09/2023,08/02/2024,136.7,3,19/12/2023,Paid,Yes
+CU1032,Male,Upper East,Premium,25/03/2022,26/08/2023,133.2,9,21/06/2023,Pending,No
+CU1033,Female,Northern,Basic,29/09/2022,06/02/2024,30.5,10,30/12/2023,Pending,No
+CU1034,Male,Eastern,Standard,29/09/2023,26/07/2025,199.2,1,19/05/2025,Paid,Yes
+CU1035,Male,Upper West,Standard,21/06/2024,28/11/2024,176.5,5,23/10/2024,Paid,No
+CU1036,Male,Savannah,Premium,16/04/2024,02/02/2026,63.4,10,20/01/2026,Paid,No
+CU1037,Male,Western,Premium,21/07/2023,26/03/2024,58.1,9,29/02/2024,Overdue,No
+CU1038,Female,Northern,Premium,16/05/2023,27/04/2024,181.5,0,16/04/2024,Overdue,No
+CU1039,Male,Upper West,Basic,08/12/2022,19/07/2023,129.2,4,29/06/2023,Overdue,No
+CU1040,Male,Bono East,Basic,19/03/2022,16/11/2022,111.4,5,03/09/2022,Overdue,Yes
+CU1041,Male,Bono East,Basic,12/11/2022,18/02/2024,180.3,0,26/10/2023,Pending,Yes
+CU1042,Male,Upper East,Standard,09/03/2024,01/01/2026,177.4,6,14/10/2025,Overdue,Yes
+CU1043,Male,Upper East,Basic,21/06/2024,15/11/2025,9.8,5,07/08/2025,Pending,Yes
+CU1044,Male,Upper West,Premium,21/04/2022,15/08/2023,175.1,7,18/07/2023,Paid,No
+CU1045,Female,Ahafo,Basic,17/08/2022,09/12/2022,133.7,6,28/10/2022,Pending,Yes
+CU1046,Female,Upper West,Premium,06/06/2023,17/10/2024,137.5,8,05/09/2024,Paid,No
+CU1047,Male,Upper West,Premium,29/09/2022,05/02/2023,26.1,6,23/12/2022,Overdue,No
+CU1048,Male,Bono East,Standard,14/08/2023,24/05/2024,54.7,6,24/05/2024,Overdue,Yes
+CU1049,Female,Ahafo,Basic,12/11/2023,13/01/2025,126.5,10,27/09/2024,Paid,Yes
+CU1050,Female,Savannah,Premium,23/02/2023,22/04/2024,83.5,4,12/02/2024,Paid,No
+CU1051,Female,Bono East,Premium,06/02/2024,31/10/2024,125.0,4,10/09/2024,Overdue,Yes
+CU1052,Female,Savannah,Basic,17/03/2023,28/01/2025,123.3,5,30/11/2024,Pending,No
+CU1053,Female,Northern,Premium,23/06/2022,16/12/2022,60.3,10,26/09/2022,Overdue,No
+CU1054,Male,Eastern,Premium,14/11/2022,30/09/2023,162.3,2,27/09/2023,Paid,No
+CU1055,Male,Western North,Standard,01/03/2023,08/01/2025,42.9,6,06/11/2024,Pending,Yes
+CU1056,Male,Central,Basic,08/03/2024,15/08/2025,47.7,8,17/06/2025,Paid,Yes
+CU1057,Male,Upper East,Standard,17/05/2022,03/12/2023,135.2,8,18/09/2023,Pending,No
+CU1058,Female,Bono East,Basic,01/02/2024,30/08/2025,92.8,3,15/05/2025,Overdue,No
+CU1059,Male,Western North,Standard,27/03/2023,12/09/2023,144.1,3,09/08/2023,Pending,No
+CU1060,Male,Eastern,Basic,25/08/2022,20/12/2023,140.3,3,12/12/2023,Pending,No
+CU1061,Female,Oti,Standard,05/03/2022,31/12/2022,167.4,6,07/09/2022,Overdue,Yes
+CU1062,Female,Bono,Basic,27/12/2022,26/01/2024,151.9,6,19/11/2023,Overdue,Yes
+CU1063,Male,Western North,Standard,23/03/2023,30/10/2024,10.7,5,06/08/2024,Overdue,No
+CU1064,Female,Volta,Basic,30/09/2023,27/06/2025,10.3,6,13/04/2025,Overdue,Yes
+CU1065,Female,Eastern,Basic,06/06/2024,20/12/2025,40.4,4,02/11/2025,Pending,Yes
+CU1066,Female,North East,Standard,19/02/2024,11/06/2025,59.3,6,10/05/2025,Paid,No
+CU1067,Male,Greater Accra,Standard,18/08/2022,25/01/2023,157.3,10,20/01/2023,Paid,No
+CU1068,Male,Northern,Premium,06/06/2022,06/05/2023,29.6,10,22/04/2023,Overdue,Yes
+CU1069,Female,North East,Standard,21/06/2022,31/05/2024,123.4,1,22/02/2024,Paid,No
+CU1070,Male,Western,Standard,13/08/2023,29/11/2024,82.3,3,20/11/2024,Overdue,Yes
+CU1071,Female,Western,Premium,07/09/2023,07/04/2024,160.3,9,29/12/2023,Paid,No
+CU1072,Female,Bono East,Basic,03/06/2023,15/08/2024,7.5,6,02/05/2024,Pending,Yes
+CU1073,Female,Bono East,Premium,01/07/2024,12/01/2026,142.9,6,21/12/2025,Overdue,No
+CU1074,Female,Western North,Standard,25/04/2024,22/03/2026,57.3,3,06/12/2025,Paid,No
+CU1075,Male,North East,Standard,07/08/2023,21/07/2025,135.3,5,18/07/2025,Pending,No
+CU1076,Female,Volta,Basic,30/12/2022,19/12/2023,71.4,9,21/09/2023,Pending,Yes
+CU1077,Male,Northern,Basic,08/01/2024,28/05/2025,100.3,3,01/03/2025,Pending,No
+CU1078,Male,North East,Basic,29/10/2022,10/09/2023,83.9,3,02/08/2023,Overdue,No
+CU1079,Female,Western North,Standard,03/02/2024,17/11/2025,69.5,7,14/10/2025,Pending,No
+CU1080,Male,Upper East,Premium,17/07/2022,03/09/2023,28.3,8,29/05/2023,Overdue,Yes
+CU1081,Male,Northern,Premium,11/05/2023,18/05/2024,146.3,8,03/03/2024,Pending,Yes
+CU1082,Female,Northern,Basic,05/01/2023,05/10/2023,63.9,8,19/09/2023,Pending,Yes
+CU1083,Female,Ashanti,Premium,10/05/2022,23/12/2023,25.0,0,11/10/2023,Pending,No
+CU1084,Female,Western North,Standard,08/07/2022,27/11/2022,54.2,7,13/11/2022,Paid,No
+CU1085,Male,Western North,Premium,07/10/2023,28/02/2024,34.6,9,21/01/2024,Paid,No
+CU1086,Female,Western,Premium,03/09/2023,26/08/2025,49.0,8,09/07/2025,Pending,No
+CU1087,Female,Savannah,Standard,06/08/2023,31/07/2025,16.7,1,25/04/2025,Paid,Yes
+CU1088,Female,Northern,Premium,25/03/2022,30/11/2022,51.8,8,21/11/2022,Paid,No
+CU1089,Female,Bono East,Premium,01/09/2023,25/03/2025,61.8,3,17/02/2025,Overdue,No
+CU1090,Male,North East,Premium,28/08/2022,23/08/2023,158.6,10,09/06/2023,Overdue,Yes
+CU1091,Male,Bono East,Premium,19/08/2022,18/04/2023,182.1,2,09/04/2023,Paid,No
+CU1092,Female,Savannah,Standard,08/05/2022,28/11/2023,139.3,6,31/07/2023,Pending,No
+CU1093,Male,North East,Premium,10/02/2022,27/07/2023,148.2,9,25/06/2023,Paid,No
+CU1094,Male,Upper East,Premium,21/04/2024,21/04/2025,117.4,2,20/02/2025,Overdue,No
+CU1095,Male,Upper West,Premium,23/03/2023,05/11/2024,194.0,7,22/09/2024,Pending,No
+CU1096,Male,Oti,Basic,04/12/2022,28/04/2024,140.3,4,04/02/2024,Pending,Yes
+CU1097,Male,North East,Standard,16/09/2022,11/11/2023,27.6,6,24/07/2023,Overdue,Yes
+CU1098,Female,North East,Basic,12/07/2022,23/03/2024,75.5,7,03/01/2024,Pending,Yes
+CU1099,Female,Northern,Premium,15/05/2022,03/06/2023,90.4,7,19/05/2023,Paid,Yes
+CU1100,Male,Upper East,Standard,19/07/2023,31/10/2023,112.7,1,03/10/2023,Paid,No
+CU1101,Male,Western,Standard,04/01/2024,26/01/2025,104.2,4,04/12/2024,Pending,No
+CU1102,Female,Upper East,Premium,29/05/2022,23/09/2023,42.2,9,20/07/2023,Overdue,Yes
+CU1103,Female,Eastern,Standard,15/12/2022,15/08/2024,57.1,0,10/07/2024,Overdue,No
+CU1104,Male,Western North,Standard,06/07/2023,10/02/2025,72.3,8,05/11/2024,Overdue,No
+CU1105,Female,North East,Basic,16/12/2023,14/11/2024,116.5,3,28/07/2024,Pending,Yes
+CU1106,Female,Oti,Premium,10/04/2024,03/08/2025,80.3,10,24/04/2025,Overdue,Yes
+CU1107,Male,Western North,Basic,30/05/2023,23/04/2025,69.7,1,02/01/2025,Pending,Yes
+CU1108,Male,North East,Premium,28/05/2022,19/10/2023,174.8,2,10/10/2023,Pending,No
+CU1109,Female,Oti,Premium,24/03/2022,24/05/2023,171.2,8,06/04/2023,Pending,No
+CU1110,Male,Ashanti,Basic,09/10/2023,27/10/2024,199.5,1,02/09/2024,Paid,Yes
+CU1111,Female,Western,Basic,12/12/2023,11/01/2025,181.2,0,01/12/2024,Paid,No
+CU1112,Female,Ahafo,Standard,30/05/2022,05/05/2023,108.6,9,07/02/2023,Paid,No
+CU1113,Male,Volta,Premium,10/06/2024,04/10/2025,125.8,3,02/08/2025,Overdue,Yes
+CU1114,Female,Upper East,Premium,18/09/2022,31/03/2024,54.8,0,07/12/2023,Pending,No
+CU1115,Male,Volta,Standard,20/12/2022,10/11/2024,63.3,6,14/08/2024,Pending,No
+CU1116,Male,Savannah,Standard,23/05/2024,28/12/2025,25.8,6,16/10/2025,Pending,No
+CU1117,Male,Savannah,Premium,10/02/2023,16/02/2024,6.6,10,09/11/2023,Overdue,Yes
+CU1118,Female,Western North,Basic,14/09/2023,07/12/2024,47.7,3,19/09/2024,Pending,Yes
+CU1119,Male,Western,Standard,18/03/2024,10/09/2025,11.5,5,09/06/2025,Paid,No
+CU1120,Female,Savannah,Premium,02/03/2023,26/11/2023,44.2,8,06/08/2023,Pending,No
+CU1121,Female,Volta,Standard,05/04/2024,02/05/2025,150.6,5,20/01/2025,Paid,No
+CU1122,Male,Eastern,Basic,30/05/2024,08/10/2025,193.6,8,23/08/2025,Paid,No
+CU1123,Female,Greater Accra,Premium,07/05/2022,13/11/2023,76.9,10,11/10/2023,Overdue,No
+CU1124,Male,Ahafo,Premium,28/08/2022,22/03/2024,9.9,8,10/02/2024,Overdue,Yes
+CU1125,Female,Eastern,Premium,06/11/2022,28/03/2024,27.8,0,24/03/2024,Pending,No
+CU1126,Male,Western,Basic,27/06/2024,29/03/2026,31.5,7,10/02/2026,Overdue,No
+CU1127,Female,Central,Premium,12/04/2022,24/11/2023,125.1,4,20/11/2023,Overdue,No
+CU1128,Female,Northern,Standard,30/08/2022,04/12/2023,24.4,10,18/10/2023,Overdue,No
+CU1129,Female,Ashanti,Standard,14/07/2022,14/02/2023,190.1,7,03/02/2023,Overdue,Yes
+CU1130,Male,Greater Accra,Standard,07/09/2022,13/04/2023,158.5,3,05/04/2023,Overdue,Yes
+CU1131,Male,Northern,Standard,03/03/2024,30/10/2024,158.8,9,30/10/2024,Pending,Yes
+CU1132,Female,Central,Basic,23/04/2022,17/08/2022,30.7,5,08/05/2022,Paid,Yes
+CU1133,Male,Oti,Basic,29/09/2022,19/02/2023,29.7,6,14/12/2022,Paid,Yes
+CU1134,Female,Eastern,Standard,07/03/2024,10/06/2025,105.1,1,14/04/2025,Overdue,Yes
+CU1135,Female,Ashanti,Standard,21/10/2023,19/02/2024,16.9,7,03/11/2023,Pending,No
+CU1136,Female,Western,Premium,31/03/2023,12/09/2023,180.4,5,27/06/2023,Paid,No
+CU1137,Female,Central,Premium,11/10/2023,30/08/2025,111.9,5,13/07/2025,Overdue,No
+CU1138,Female,North East,Basic,23/03/2024,16/10/2024,171.3,10,26/06/2024,Overdue,Yes
+CU1139,Female,Bono East,Basic,28/02/2023,10/05/2024,166.3,6,18/03/2024,Overdue,Yes
+CU1140,Female,Oti,Standard,13/11/2023,29/10/2024,78.0,2,03/08/2024,Pending,Yes
+CU1141,Male,Eastern,Basic,19/03/2023,23/09/2023,150.2,5,12/06/2023,Paid,Yes
+CU1142,Female,Ashanti,Premium,06/05/2022,28/09/2023,74.0,10,31/05/2023,Pending,Yes
+CU1143,Female,Savannah,Standard,17/04/2022,27/02/2024,103.9,2,05/12/2023,Pending,Yes
+CU1144,Female,Western,Premium,12/01/2023,07/08/2023,153.7,9,10/07/2023,Pending,Yes
+CU1145,Male,Upper West,Basic,07/10/2022,17/11/2023,184.7,5,17/11/2023,Paid,No
+CU1146,Male,Bono,Basic,29/01/2024,29/05/2024,22.9,8,02/05/2024,Pending,No
+CU1147,Female,North East,Basic,14/01/2023,27/02/2024,145.7,9,13/12/2023,Paid,No
+CU1148,Male,Central,Premium,20/02/2022,12/08/2022,58.1,10,19/06/2022,Pending,No
+CU1149,Female,Bono East,Basic,13/02/2024,19/10/2025,27.2,6,05/10/2025,Pending,No
+CU1150,Male,Savannah,Basic,09/02/2023,12/01/2025,15.7,3,05/12/2024,Paid,No
+CU1151,Female,Upper West,Standard,03/05/2022,08/08/2022,102.0,6,17/07/2022,Paid,No
+CU1152,Female,Upper East,Basic,11/02/2023,24/06/2023,90.1,7,27/02/2023,Paid,No
+CU1153,Female,Bono East,Premium,18/10/2023,18/03/2025,61.5,6,16/03/2025,Pending,Yes
+CU1154,Female,North East,Basic,24/03/2023,08/10/2023,52.4,9,18/08/2023,Overdue,Yes
+CU1155,Female,Bono,Premium,14/12/2022,26/10/2023,69.9,2,17/10/2023,Overdue,Yes
+CU1156,Female,Northern,Standard,15/01/2024,12/09/2024,51.1,2,11/08/2024,Paid,No
+CU1157,Male,Central,Basic,02/03/2024,18/10/2025,95.5,9,13/07/2025,Overdue,No
+CU1158,Female,Oti,Basic,27/03/2023,02/09/2023,96.4,10,26/07/2023,Pending,Yes
+CU1159,Male,Ahafo,Standard,18/04/2023,21/10/2024,12.3,5,07/07/2024,Pending,Yes
+CU1160,Female,Eastern,Standard,18/08/2023,05/06/2025,191.1,0,09/04/2025,Overdue,Yes
+CU1161,Female,Oti,Premium,04/06/2022,04/11/2022,92.9,5,05/08/2022,Paid,Yes
+CU1162,Male,Volta,Basic,26/12/2023,16/06/2025,198.2,8,11/04/2025,Overdue,Yes
+CU1163,Female,Ahafo,Standard,01/02/2023,23/06/2024,156.0,10,08/04/2024,Paid,Yes
+CU1164,Male,Oti,Standard,07/04/2022,28/01/2024,137.3,4,27/12/2023,Overdue,Yes
+CU1165,Male,Oti,Premium,11/11/2023,02/07/2024,183.8,4,10/04/2024,Overdue,No
+CU1166,Male,Central,Standard,27/07/2023,13/11/2024,130.5,5,01/08/2024,Paid,Yes
+CU1167,Female,Eastern,Premium,06/01/2023,24/04/2023,75.7,2,28/03/2023,Pending,No
+CU1168,Male,Northern,Basic,08/06/2022,24/11/2022,62.7,1,21/09/2022,Overdue,Yes
+CU1169,Male,Oti,Premium,21/01/2023,25/09/2023,36.6,9,14/06/2023,Paid,Yes
+CU1170,Male,North East,Standard,09/01/2023,08/12/2023,194.1,9,02/11/2023,Overdue,No
+CU1171,Male,Upper East,Standard,08/04/2024,30/10/2025,181.3,3,13/09/2025,Overdue,No
+CU1172,Female,North East,Standard,30/05/2023,18/02/2025,86.6,2,06/11/2024,Paid,Yes
+CU1173,Female,Central,Basic,19/10/2023,23/05/2025,175.5,8,24/01/2025,Paid,Yes
+CU1174,Female,Western,Basic,21/02/2024,01/11/2024,58.2,8,14/10/2024,Pending,Yes
+CU1175,Female,Upper East,Standard,28/01/2022,26/06/2023,15.4,8,10/05/2023,Paid,No
+CU1176,Female,Eastern,Basic,29/01/2022,21/03/2023,186.5,10,07/02/2023,Paid,No
+CU1177,Female,Ashanti,Standard,14/12/2023,02/08/2024,153.0,7,06/06/2024,Overdue,Yes
+CU1178,Male,Eastern,Standard,09/08/2022,09/04/2023,112.0,9,01/02/2023,Pending,Yes
+CU1179,Male,Savannah,Standard,05/05/2022,20/09/2022,51.5,10,11/06/2022,Overdue,No
+CU1180,Male,Eastern,Standard,04/09/2023,03/06/2025,8.2,8,22/03/2025,Paid,Yes
+CU1181,Female,Central,Standard,02/01/2022,22/12/2023,73.8,9,30/10/2023,Paid,Yes
+CU1182,Female,Eastern,Basic,23/06/2023,31/03/2025,103.9,8,20/01/2025,Paid,No
+CU1183,Male,Western North,Premium,01/02/2023,18/05/2024,54.5,0,03/04/2024,Paid,No
+CU1184,Male,Upper East,Premium,23/01/2024,28/03/2025,31.0,5,18/01/2025,Pending,Yes
+CU1185,Female,North East,Premium,06/07/2022,19/02/2023,17.3,7,15/02/2023,Pending,Yes
+CU1186,Male,Ashanti,Basic,20/11/2022,01/01/2024,105.5,8,02/11/2023,Pending,Yes
+CU1187,Female,Northern,Standard,01/06/2024,17/10/2024,173.8,5,13/09/2024,Paid,No
+CU1188,Female,Bono East,Premium,27/03/2023,24/07/2024,71.1,2,22/05/2024,Overdue,No
+CU1189,Female,Ahafo,Basic,15/01/2024,22/06/2025,20.4,9,09/03/2025,Paid,Yes
+CU1190,Female,Savannah,Basic,23/03/2022,22/05/2023,133.9,4,26/03/2023,Overdue,No
+CU1191,Female,Volta,Standard,03/04/2023,14/08/2023,146.7,5,28/05/2023,Pending,No
+CU1192,Male,Ashanti,Premium,15/10/2023,03/03/2025,75.8,10,11/02/2025,Paid,No
+CU1193,Male,North East,Basic,10/03/2022,04/02/2023,156.8,5,20/12/2022,Pending,Yes
+CU1194,Female,Central,Standard,16/01/2023,13/07/2024,153.8,9,26/06/2024,Overdue,No
+CU1195,Female,Bono,Premium,13/10/2022,23/09/2023,192.3,0,21/06/2023,Paid,No
+CU1196,Male,Bono,Standard,04/03/2024,23/02/2025,142.3,3,07/12/2024,Pending,No
+CU1197,Male,Northern,Basic,23/05/2024,04/11/2024,93.1,7,24/10/2024,Overdue,No
+CU1198,Male,Ahafo,Premium,10/07/2023,31/07/2024,178.8,2,01/05/2024,Overdue,Yes
+CU1199,Male,Ahafo,Basic,25/07/2022,14/03/2023,51.2,7,11/03/2023,Pending,No
+CU1200,Male,North East,Premium,24/06/2024,19/12/2024,17.8,6,19/09/2024,Overdue,No
+CU1201,Female,Bono East,Premium,17/03/2022,21/10/2022,194.6,10,12/10/2022,Pending,No
+CU1202,Male,Ahafo,Premium,18/10/2023,08/09/2025,40.5,2,15/07/2025,Overdue,Yes
+CU1203,Male,Western,Standard,18/06/2022,28/02/2023,67.9,3,15/01/2023,Overdue,No
+CU1204,Female,Eastern,Basic,13/10/2023,28/07/2025,58.5,10,20/06/2025,Overdue,Yes
+CU1205,Male,Volta,Basic,06/11/2023,04/11/2025,145.5,9,22/09/2025,Overdue,Yes
+CU1206,Male,Greater Accra,Basic,19/10/2023,29/08/2025,56.6,3,23/05/2025,Overdue,No
+CU1207,Female,Greater Accra,Premium,13/07/2023,02/08/2024,130.2,4,02/06/2024,Paid,Yes
+CU1208,Female,Bono,Standard,16/03/2022,14/08/2022,35.8,6,14/06/2022,Pending,Yes
+CU1209,Male,Oti,Standard,01/06/2024,22/07/2025,148.2,5,01/06/2025,Paid,No
+CU1210,Female,Western,Basic,23/04/2023,24/11/2023,57.2,3,06/11/2023,Paid,No
+CU1211,Female,Savannah,Premium,05/03/2023,12/02/2024,192.7,2,31/10/2023,Pending,No
+CU1212,Male,Northern,Standard,12/06/2023,31/12/2024,102.3,4,29/10/2024,Paid,No
+CU1213,Female,Bono,Basic,09/08/2022,26/06/2024,73.8,0,21/05/2024,Pending,No
+CU1214,Male,Savannah,Basic,18/03/2023,31/10/2023,177.1,5,26/07/2023,Pending,No
+CU1215,Female,Ashanti,Basic,07/08/2023,02/06/2025,43.0,8,27/04/2025,Paid,No
+CU1216,Female,North East,Premium,28/11/2023,12/11/2025,28.2,1,23/09/2025,Pending,No
+CU1217,Male,Ahafo,Basic,09/09/2023,12/05/2025,83.3,0,07/05/2025,Paid,No
+CU1218,Female,Oti,Premium,13/04/2023,11/12/2023,123.2,8,24/11/2023,Pending,No
+CU1219,Female,Volta,Premium,28/01/2024,27/02/2025,120.8,8,13/11/2024,Overdue,No
+CU1220,Female,Savannah,Basic,13/01/2023,17/03/2024,136.4,6,03/01/2024,Pending,Yes
+CU1221,Female,Western North,Premium,12/03/2024,23/01/2026,117.6,0,10/11/2025,Pending,Yes
+CU1222,Male,Bono,Premium,06/09/2022,06/01/2023,116.7,1,13/12/2022,Paid,No
+CU1223,Female,Oti,Basic,27/02/2023,22/12/2023,85.0,9,27/08/2023,Pending,Yes
+CU1224,Male,Central,Premium,29/11/2022,30/06/2024,107.5,5,08/06/2024,Pending,No
+CU1225,Female,Ahafo,Premium,11/05/2023,21/02/2024,191.7,4,12/12/2023,Pending,Yes
+CU1226,Female,Savannah,Premium,01/08/2022,13/03/2024,66.8,5,02/01/2024,Overdue,No
+CU1227,Male,Savannah,Premium,24/11/2023,31/08/2025,79.0,6,19/05/2025,Pending,Yes
+CU1228,Male,Savannah,Standard,02/01/2024,20/06/2024,72.5,7,29/03/2024,Pending,No
+CU1229,Male,Northern,Premium,05/10/2022,31/07/2024,140.8,2,18/07/2024,Overdue,Yes
+CU1230,Male,Upper East,Premium,28/06/2023,14/05/2024,129.4,0,02/05/2024,Pending,No
+CU1231,Male,Western North,Premium,29/02/2024,16/10/2024,6.0,8,20/06/2024,Paid,No
+CU1232,Female,Western North,Premium,24/07/2022,12/08/2023,67.6,10,05/08/2023,Paid,Yes
+CU1233,Male,Upper East,Basic,04/03/2023,29/11/2023,187.1,0,14/08/2023,Pending,No
+CU1234,Female,Volta,Basic,10/01/2022,09/02/2023,115.8,1,14/10/2022,Pending,No
+CU1235,Female,North East,Basic,21/05/2024,17/01/2026,96.3,3,06/10/2025,Paid,No
+CU1236,Female,Volta,Premium,21/09/2022,28/06/2023,7.7,5,19/03/2023,Pending,Yes
+CU1237,Female,Volta,Standard,12/06/2023,10/08/2024,21.9,10,29/07/2024,Paid,No
+CU1238,Female,Western North,Basic,07/01/2022,30/12/2022,79.8,7,25/09/2022,Pending,No
+CU1239,Male,Savannah,Standard,01/11/2023,01/02/2025,140.1,0,08/11/2024,Paid,No
+CU1240,Male,Savannah,Standard,04/12/2023,30/07/2025,185.0,4,03/05/2025,Paid,Yes
+CU1241,Female,Savannah,Premium,15/08/2022,25/06/2023,191.7,7,06/06/2023,Pending,No
+CU1242,Female,Bono East,Premium,01/04/2024,08/02/2025,153.6,10,04/11/2024,Overdue,Yes
+CU1243,Female,North East,Basic,01/08/2023,21/02/2024,17.0,8,29/10/2023,Overdue,Yes
+CU1244,Male,Central,Standard,24/05/2024,05/02/2026,91.2,10,10/01/2026,Overdue,No
+CU1245,Female,Eastern,Basic,10/04/2023,21/11/2023,105.1,7,10/09/2023,Paid,Yes
+CU1246,Female,North East,Premium,23/01/2022,02/06/2023,54.6,0,27/02/2023,Paid,Yes
+CU1247,Male,Eastern,Standard,19/12/2022,23/05/2023,110.5,0,24/01/2023,Paid,No
+CU1248,Female,Ashanti,Standard,04/07/2022,17/02/2023,154.3,10,26/12/2022,Pending,No
+CU1249,Female,North East,Standard,24/03/2022,26/12/2023,30.9,5,11/12/2023,Paid,Yes
+CU1250,Male,Bono,Premium,17/08/2022,18/11/2022,152.5,4,20/09/2022,Overdue,No
+CU1251,Male,Bono,Basic,17/04/2023,04/07/2024,35.2,3,07/03/2024,Overdue,Yes
+CU1252,Female,Ashanti,Premium,24/02/2024,09/06/2024,51.9,1,28/05/2024,Overdue,Yes
+CU1253,Male,North East,Basic,29/01/2024,12/06/2024,83.4,3,04/04/2024,Paid,No
+CU1254,Female,Central,Basic,15/04/2024,23/02/2026,67.2,9,17/11/2025,Overdue,No
+CU1255,Female,Upper East,Basic,08/11/2023,23/07/2025,48.1,4,18/06/2025,Paid,Yes
+CU1256,Female,Volta,Premium,23/05/2023,08/10/2023,194.6,10,15/07/2023,Pending,No
+CU1257,Female,Bono East,Basic,04/11/2022,22/02/2024,40.9,8,24/12/2023,Paid,No
+CU1258,Male,Savannah,Standard,01/03/2022,26/12/2023,85.5,6,16/10/2023,Overdue,Yes
+CU1259,Male,Bono,Standard,28/07/2022,29/09/2023,131.1,7,13/06/2023,Pending,Yes
+CU1260,Male,Northern,Standard,22/01/2023,31/12/2024,122.6,1,07/12/2024,Overdue,Yes
+CU1261,Male,Western North,Standard,07/11/2022,20/02/2023,46.3,3,18/11/2022,Paid,Yes
+CU1262,Male,Western North,Premium,11/09/2023,06/07/2024,82.3,3,27/04/2024,Pending,No
+CU1263,Female,Bono,Premium,27/10/2023,26/01/2025,65.1,5,22/11/2024,Pending,No
+CU1264,Female,Western,Standard,28/07/2022,09/11/2023,66.0,0,29/08/2023,Paid,Yes
+CU1265,Male,Central,Standard,21/07/2023,08/06/2025,117.9,6,02/05/2025,Paid,No
+CU1266,Male,Oti,Standard,07/08/2023,13/07/2024,102.4,10,15/03/2024,Overdue,No
+CU1267,Female,Upper West,Premium,20/10/2023,03/06/2025,94.9,5,13/05/2025,Paid,Yes
+CU1268,Male,Western North,Premium,20/10/2023,18/03/2024,107.2,1,19/11/2023,Overdue,Yes
+CU1269,Female,Greater Accra,Basic,12/05/2024,03/04/2025,18.3,2,02/04/2025,Paid,Yes
+CU1270,Female,North East,Basic,25/09/2023,15/09/2025,183.0,10,15/07/2025,Paid,No
+CU1271,Male,Bono East,Basic,27/06/2023,02/07/2024,109.5,4,30/06/2024,Overdue,No
+CU1272,Male,Volta,Basic,21/06/2023,18/02/2024,52.0,9,13/12/2023,Pending,No
+CU1273,Female,Upper West,Basic,18/01/2023,06/06/2024,94.5,3,09/03/2024,Paid,No
+CU1274,Male,Eastern,Basic,20/02/2023,12/06/2024,78.5,7,05/06/2024,Overdue,Yes
+CU1275,Male,Volta,Standard,15/05/2024,31/10/2025,130.8,5,20/08/2025,Paid,Yes
+CU1276,Male,Ashanti,Basic,07/06/2024,08/04/2026,97.7,0,11/12/2025,Paid,Yes
+CU1277,Male,Upper West,Basic,20/05/2024,06/07/2025,8.1,3,22/04/2025,Paid,Yes
+CU1278,Male,Bono,Standard,16/06/2022,13/04/2024,51.9,6,18/01/2024,Overdue,No
+CU1279,Male,Bono,Premium,12/01/2024,30/06/2024,102.7,5,24/06/2024,Paid,No
+CU1280,Male,Upper East,Standard,12/09/2023,30/08/2025,191.2,6,23/05/2025,Pending,Yes
+CU1281,Female,Upper West,Standard,22/08/2022,19/11/2023,112.8,6,25/09/2023,Paid,Yes
+CU1282,Male,Bono,Premium,30/10/2022,07/10/2023,144.1,1,03/09/2023,Paid,No
+CU1283,Female,Central,Standard,05/01/2023,23/07/2023,22.8,4,28/05/2023,Pending,No
+CU1284,Male,Western,Basic,11/07/2022,24/12/2023,92.5,8,20/10/2023,Pending,Yes
+CU1285,Male,Greater Accra,Standard,22/07/2023,23/01/2024,121.4,5,05/10/2023,Pending,Yes
+CU1286,Female,Savannah,Standard,08/03/2024,31/08/2024,146.3,8,08/05/2024,Paid,Yes
+CU1287,Female,Volta,Basic,23/05/2022,23/05/2023,63.7,7,05/05/2023,Paid,No
+CU1288,Female,Bono East,Standard,03/11/2022,10/06/2024,157.6,5,09/05/2024,Paid,Yes
+CU1289,Male,Western North,Standard,20/04/2022,04/12/2022,64.4,6,23/10/2022,Overdue,No
+CU1290,Female,Oti,Standard,17/03/2023,12/02/2025,31.5,5,27/11/2024,Overdue,Yes
+CU1291,Female,Western North,Basic,12/02/2023,03/04/2024,61.8,10,01/02/2024,Overdue,Yes
+CU1292,Female,Oti,Standard,16/04/2024,21/08/2025,76.2,9,27/07/2025,Overdue,Yes
+CU1293,Female,Greater Accra,Premium,03/08/2022,23/01/2024,160.5,1,11/10/2023,Pending,No
+CU1294,Female,Central,Basic,16/09/2022,21/05/2023,144.5,6,12/05/2023,Pending,No
+CU1295,Female,Bono,Premium,07/02/2022,11/05/2023,141.8,8,24/02/2023,Overdue,Yes
+CU1296,Male,Western,Premium,12/11/2023,07/02/2025,37.4,9,02/02/2025,Overdue,No
+CU1297,Female,Oti,Basic,11/01/2022,20/07/2022,55.5,8,16/04/2022,Overdue,Yes
+CU1298,Female,North East,Standard,20/04/2023,12/03/2025,139.6,2,27/01/2025,Paid,No
+CU1299,Female,Western,Standard,29/03/2022,23/10/2022,167.1,2,09/09/2022,Pending,No
+CU1300,Male,North East,Premium,10/05/2023,29/07/2024,97.9,7,28/04/2024,Overdue,No
